@@ -1,0 +1,12 @@
+#Database config
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    username: ${DB_USERNAME}
+    url: ${DB_URL}
+    password: ${DB_PASSWORD}
+
+server:
+  port: ${SERVER_PORT}
+
+

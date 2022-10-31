@@ -1,0 +1,10 @@
+#Database config
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/coreapplication
+    username: postgres
+    password: masterkey
+
+server:
+  port: 8082
+
