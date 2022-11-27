@@ -9,7 +9,7 @@ Getting a jwt from another api and validating
 
 ## 🛠️ Build instructions
 ### Prerequisites
-> - Java 17?
+> - Java 17
 > - Maven latest
 > - **Default port**: 8082
 
