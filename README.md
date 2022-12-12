@@ -12,4 +12,5 @@ Getting a jwt from another api and validating
 > - Java 17
 > - Maven latest
 > - **Default port**: 8082
+> - Database: PostgresSQL
 
